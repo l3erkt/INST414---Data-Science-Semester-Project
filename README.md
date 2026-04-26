@@ -106,7 +106,3 @@ All four figures will be saved as PNG files in the working directory.
 This is an **observational study** — no variables were manipulated. The analysis reflects patterns in existing NYC city hiring data as posted. Findings describe correlations, not causal relationships: a higher career level being associated with higher pay does not mean that promotions *cause* salary increases in isolation from other factors (experience, tenure, agency, etc.).
 
 ---
-
-## Course Context
-
-This project was built for a Data Science semester capstone structured as a data-driven op-ed. Topics applied from the course include data cleaning with pandas, exploratory visualization, correlation analysis, non-parametric statistical testing, and communicating findings for a general audience.
