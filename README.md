@@ -37,7 +37,7 @@ This analysis was completed as a semester capstone project for a Data Science co
 
 ## Data
 
-**Source:** [NYC Jobs — NYC Open Data / Data.gov](https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t)
+**Source:** [NYC Jobs — NYC Open Data / Data.gov](https://catalog.data.gov/dataset/jobs-nyc-postings?from_hint=eyJxIjoibnljIGpvYnMifQ%3D%3D)
 
 **Filters applied:**
 - Annual salary postings only (1,957 of 2,371 total records)
